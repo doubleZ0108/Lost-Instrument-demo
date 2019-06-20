@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/erhu/erhu_qinganScene.unity
+- path: Assets/Scenes/guzheng/guzhengScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
